@@ -7,7 +7,7 @@ Button is external, and is connected to pin D2.
 */
 
 // define macros for pin numbers so the code is easier to understand
-#define LED_R 11 //blue
+#define LED_R 9 //9 = RED, 10 = GREEN, 11 = BLUE
 #define BUTTON_PIN 2
 
 // global variable to store the button state
